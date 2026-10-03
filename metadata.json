@@ -1,0 +1,6 @@
+{
+  "name": "Morocco Cars",
+  "description": "Location de voitures premium et 4x4 au Maroc. Flotte exclusive, réservation instantanée et conciergerie automobile à Casablanca, Marrakech et tout le Royaume.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
